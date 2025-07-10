@@ -1,7 +1,6 @@
 # zepto-frontend
 
 
-
 This project is a static frontend replica of the popular Zepto online shopping platform. Developed using *HTML and CSS*, this clone demonstrates a homepage layout featuring categories, product sections, hover effects, and a custom footer.
 
 ---
@@ -23,7 +22,7 @@ This project is a static frontend replica of the popular Zepto online shopping p
 
 - *HTML5*
 - *CSS3*
-- Icons from FontAwesome (optional if included)
+- Icons from FontAwesome 
 - Static image assets (stored locally in image/ folder)
 -  Git/GitHub
 
