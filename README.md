@@ -25,17 +25,10 @@ This project is a static frontend replica of the popular Zepto online shopping p
 - *CSS3*
 - Icons from FontAwesome (optional if included)
 - Static image assets (stored locally in image/ folder)
+-  Git/GitHub
 
 ---
 
-
-
-
-
-
-# Zepto-Frontend Project
-
-🚀 A modern frontend project built with HTML, CSS, JavaScript and React.  
 
 ## GitHub Stats
 
@@ -51,16 +44,3 @@ This project is a static frontend replica of the popular Zepto online shopping p
 
 ---
 
-### How to Contribute
-1. Fork this repository
-2. Create a new branch: git checkout -b new-feature
-3. Make your changes and commit: git commit -m "Add new feature"
-4. Push to the branch: git push origin new-feature
-5. Submit a pull request
-
-### Technologies Used
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Git/GitHub
